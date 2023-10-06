@@ -39,3 +39,4 @@ async function getQuote() {
 
 newQuoteButton.addEventListener('click', getQuote);
 
+
