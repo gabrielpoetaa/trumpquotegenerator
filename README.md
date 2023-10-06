@@ -1,4 +1,4 @@
-# trumpquotegenerator
+# Trump Quote Generator App
 A quote generator fulfilled with phrases once articulated by former US President Trump. 
 
 Quote generator App made with css, HTML, Node.js and a open API (api.whatdoestrumpthink.com/).
