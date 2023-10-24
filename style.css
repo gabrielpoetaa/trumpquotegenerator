@@ -16,7 +16,7 @@ body::before{
   background-position:center;
   background-size: cover;
   position: absolute;
-  background-blend-mode: multiply;
+  /* background-blend-mode: multiply; */
   top: 0px;
       right: 0px;
       bottom: 0px;
